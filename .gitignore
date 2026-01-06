@@ -1,0 +1,37 @@
+# OS X
+.DS_Store
+.obsidian
+
+# Xcode
+build/
+*.pbxuser
+xcuserdata/
+*.xccheckout
+DerivedData
+*.ipa
+
+# Bundler
+.bundle
+
+# AppCode
+.idea
+!.idea/codeStyleSettings.xml
+
+# Tuist
+graph.png
+Tuist/Dependencies/graph.json
+Derived/
+
+# Logs
+Build-Phases/temp/
+
+# SPM
+**/.build
+
+*__Snapshots__*
+
+
+Apps/XMLConverterCLI/bin/*
+
+
+.vscode/settings.json
